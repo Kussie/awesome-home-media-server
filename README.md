@@ -35,13 +35,13 @@ Contributions are welcome! Please [check out](CONTRIBUTING.md) our guidelines.
 
 ## Media Servers
 
-- [Plex](https://www.plex.tv/) - Media server with a full-featured library management and media player with a visually appealing user interface.
+- [Plex](https://www.plex.tv/) - Media server with a full-featured library management and media player with a visually appealing user interface with client applications available for nearly every "smart" device.
 - [Kodi](https://kodi.tv/) - Open source media player and entertainment center with "skinnable" interface.
 - [Emby](https://emby.media/) - Media aggregator plugin that takes your media and presents it in a simple, easy to use interface.
-- [Jellyfin](https://jellyfin.org/) - An open source fork of Emby, still early days and client applications for some devices are a little rough at this point, but progress is being made quickly.
+- [Jellyfin](https://jellyfin.org/) - An open source fork of Emby, can be a little rough around the edges in some areas however development is quite active and features an ever growing community.  The number of clients offered compared to the likes of Plex is currently lacking, however it is slowly increasing.
 - [Komga](https://komga.org/) - An open source comic book media server with a built in web reader and OPDS catalog.
-- [Calibre](https://hub.docker.com/r/linuxserver/calibre) - A docker container of Calibre allowing for management and organization of eBooks.
-- [Calibre Web](https://github.com/janeczku/calibre-web) - A nice front end for Calibre collections with built in OPDS catalog.
+- [Calibre](https://hub.docker.com/r/linuxserver/calibre) - A docker container of Calibre allowing for management and organization of your eBook collection.
+- [Calibre Web](https://github.com/janeczku/calibre-web) - A nice web based front-end for your Calibre library with built in OPDS catalog, which features a comprehensive user access control system allowing you to limit books to certain suers based on their tags.
 
 ## Plex Tools
 
