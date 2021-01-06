@@ -68,8 +68,7 @@ Contributions are welcome! Please [check out](CONTRIBUTING.md) our guidelines.
 - [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - A nice Android app that provides a nice way to manage various download clients along with Sonarr and Radarr on your Android device.
 - [Infuse](https://firecore.com/infuse) - An incredibly powerful and very nice to use video player for Apple devices (iOS, iPadOS, tvOS etc) which supports Plex, Emby and Jellyfin.
 
+
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.
