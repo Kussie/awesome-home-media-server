@@ -7,7 +7,6 @@ Contributions are welcome! Please [check out](CONTRIBUTING.md) our guidelines.
 
 - [Tutorials](#tutorials)
 - [Community](#community)
-- [NAS Operating Systems](#nas-operating-systems)
 - [Media Servers](#media-servers)
 - [Media Sources](#media-sources)
 - [TV Trackers](#tv-trackers)
@@ -26,12 +25,6 @@ Contributions are welcome! Please [check out](CONTRIBUTING.md) our guidelines.
 - [/r/radarr](https://www.reddit.com/r/sonarr/) - The Radarr subreddit.
 - [/r/kodi](https://www.reddit.com/r/kodi/) - The Kodi subreddit.
 - [/r/selfhosted](https://www.reddit.com/r/selfhosted/) - The Self Hosting subreddit.
-
-## NAS Operating Systems
-
-- [Unraid](https://unraid.net/) - Unraid OS allows sophisticated media aficionados, gamers, and other intensive data-users to have ultimate control over their data, media, applications, and desktops, using just about any combination of hardware.
-- [Openmediavault](https://www.openmediavault.org/) - Openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins.
-- [TrueNAS Core](https://www.truenas.com/truenas-core/) - TrueNAS CORE is the community edition of the TrueNAS Open Storage OS, and the successor to FreeNAS. Enterprise-grade, yet completely free to use, CORE is built on the powerful OpenZFS file system to keep data safe and secure while providing block, file, and object storage over a network to back up and share files, serve media, and many other data storage applications.
 
 ## Media Servers
 
