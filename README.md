@@ -48,6 +48,7 @@ Contributions are welcome! Please [check out](CONTRIBUTING.md) our guidelines.
 - [Tautulli](https://tautulli.com/) - A web app for monitoring, analytics, and notifications for Plex Media Server.
 - [Overseerr](https://github.com/sct/overseerr) - A recent but impressive web based application allow your Plex users to make requests for TV Shows and Movies with a role based approval system.
 - [MovieMatch](https://github.com/LukeChannings/moviematch) - A neat little web based application that lets you and other parties decide on what to watch together based on a Tinder like experience (swiping left or right).
+- [Plex Auto Collections](https://github.com/mza921/Plex-Auto-Collections) - Plex Auto Collections is a Python 3 script that works off a configuration file to create and update Plex collections automatically.
 
 ## Media Sources
 
