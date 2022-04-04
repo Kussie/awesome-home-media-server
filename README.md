@@ -21,7 +21,7 @@ Contributions are welcome! Please [check out](CONTRIBUTING.md) our guidelines.
 ## Community
 
 - [/r/PleX](https://www.reddit.com/r/PleX/) - The Plex subreddit.
-- [/r/PleX](https://www.reddit.com/r/jellyfin/) - The Jellyfin subreddit.
+- [/r/Jellyfin](https://www.reddit.com/r/jellyfin/) - The Jellyfin subreddit.
 - [/r/sonarr](https://www.reddit.com/r/sonarr/) - The Sonarr subreddit.
 - [/r/radarr](https://www.reddit.com/r/radarr/) - The Radarr subreddit.
 - [/r/kodi](https://www.reddit.com/r/kodi/) - The Kodi subreddit.
